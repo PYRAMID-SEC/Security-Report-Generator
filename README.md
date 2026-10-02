@@ -114,11 +114,7 @@ This tool formats findings. It does not find vulnerabilities or exploit anything
 - Remove real credentials, personal data and secrets from evidence before sharing a report.
 - Report vulnerabilities to the affected owner through the proper channel.
 
-## Roadmap
 
-- [ ] [FEATURE]
-- [ ] [FEATURE]
-- [ ] [FEATURE]
 
 ## Author
 
